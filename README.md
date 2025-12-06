@@ -1,5 +1,5 @@
 # Re:Scale2
-Re-apload
+Re-upload
 
 Re:Scale2 (including various versions) are located under `/files`.
 
