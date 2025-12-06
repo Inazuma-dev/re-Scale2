@@ -1,7 +1,0 @@
-module.exports = {
-	MIGRATE: 1,
-	USER: 2,
-	DEVELOPER: 4,
-	MODERATOR: 8,
-	ADMINISTRATOR: 16
-}
